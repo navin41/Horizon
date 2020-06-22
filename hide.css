@@ -1,0 +1,25 @@
+
+
+
+.red{
+    width:200px;
+    
+    border:2px solid blue;
+    height:300px;
+    display:inline-block;
+}
+
+.green{
+    width:200px;
+   
+    border:2px solid brown;
+    height:300px;
+    display:inline-block;
+}
+
+
+#hide{
+   width:100px;
+   font-size:20px;
+
+}
